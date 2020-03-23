@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 4
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 5
+    },
+    {
+      "title": "Other streams",
+      "description": "This is other streams",
+      "id": 7
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "userId": "115537595199698189060",
+      "id": 9
+    },
+    {
+      "title": "sss",
+      "description": "dddd",
+      "userId": "115537595199698189060",
+      "id": 10
+    }
+  ]
+}
